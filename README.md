@@ -2,7 +2,7 @@
 *I'm a software developer trying to make people's lives better through my work.*
 
 ## :technologist: Something about me
-- 💼 For over 5 years, I’ve been crafting impactful web-based software solutions that deliver results.
+- 💼 I’ve been crafting software solutions for more than 5 years, focusing on building efficient and user-focused web systems.
 - ✨ I enjoy diving into every aspect of software development, from creating engaging user interfaces to building robust back-end systems.
 - ⌨️ My all time favorite programming language is JavaScript/TypeScript.
 
