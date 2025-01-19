@@ -2,9 +2,8 @@
 *I'm a software developer trying to make people's lives better through my work.*
 
 ## :technologist: Something about me
-- 🎓 I'm currently studying Master Digital Transformation at the Dortmund University of Applied Science.
-- 💼 I've been working as Software Developer since 2018 and mainly working on web-centric systems.
-- ✨ I'm interested in every aspect of software engineering, from making user interface in Frontend to designing systems in Backend, to setting up CI/CD in DevOps.
+- 💼 For over 5 years, I’ve been crafting impactful web-based software solutions that deliver results.
+- ✨ I enjoy diving into every aspect of software development, from creating engaging user interfaces to building robust back-end systems.
 - ⌨️ My all time favorite programming language is JavaScript/TypeScript.
 
 ## :mailbox: How to reach me
